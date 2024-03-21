@@ -28,7 +28,7 @@ public class Application3 {
 
     short snum2 = 4;
 
-    //short snum = bmum1 = snum1; 에러발생
+    //short snum = bmum1 + snum1; 에러발생
     //byte b = bnum1 + bnum2;
     int result = bnum1 + bnum2;
     int result2 = bnum1 + snum1;
