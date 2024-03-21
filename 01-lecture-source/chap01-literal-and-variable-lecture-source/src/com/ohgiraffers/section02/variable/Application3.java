@@ -1,4 +1,4 @@
-package variable;public class Application3 {
+package com.ohgiraffers.section02.variable;public class Application3 {
     public static void main(String[] args){
 
         /*수업목표 변수의 명명 규칙에 대해 이해할 수 있다*/
