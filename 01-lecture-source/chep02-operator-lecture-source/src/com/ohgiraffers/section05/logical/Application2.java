@@ -22,7 +22,10 @@ public class Application2 {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/main
         /* 2. 영어의 대문자인지 확인*/
         /* 영어 대문자냐?--> 문자변수>='A' && <='Z' */
         char ch ='G';
@@ -48,7 +51,12 @@ public class Application2 {
 
          System.out.println("영문자인지 확인 : " + ((ch4>=65 && ch4 <= 90)||(ch4 >= 97 && ch4 <= 122)) );
 
+<<<<<<< HEAD
 >>>>>>> 13e09dd (논리연산자)
+=======
+=======
+>>>>>>> origin/main
+>>>>>>> origin/main
     }
 
 
